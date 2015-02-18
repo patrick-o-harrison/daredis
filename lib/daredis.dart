@@ -8,4 +8,4 @@ library daredis;
 
 // TODO: Export any libraries intended for clients of this package.
 
-export 'src/daredis_base.dart';
+part 'src/resp.dart';
