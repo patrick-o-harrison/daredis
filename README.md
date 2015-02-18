@@ -1,6 +1,6 @@
 # daredis
 
-A library for Dart developers. It is awesome.
+Lightweight, asynchronous redis client for Dart.
 
 ## Usage
 
